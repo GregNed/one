@@ -1,0 +1,116 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7818, 32.0853]
+      },
+      "properties": {
+        "name": "Rothschild Boulevard",
+        "description": "Famous boulevard in Tel-Aviv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7749, 32.0809]
+      },
+      "properties": {
+        "name": "Dizengoff Square",
+        "description": "Central square in Tel-Aviv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7694, 32.0667]
+      },
+      "properties": {
+        "name": "Jaffa Port",
+        "description": "Historic port area"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7878, 32.0889]
+      },
+      "properties": {
+        "name": "Tel-Aviv Museum of Art",
+        "description": "Art museum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7603, 32.0603]
+      },
+      "properties": {
+        "name": "Florentin",
+        "description": "Neighborhood in Tel-Aviv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7956, 32.0956]
+      },
+      "properties": {
+        "name": "Ramat Aviv",
+        "description": "Northern neighborhood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7711, 32.0711]
+      },
+      "properties": {
+        "name": "Neve Tzedek",
+        "description": "Historic neighborhood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7833, 32.0833]
+      },
+      "properties": {
+        "name": "Carmel Market",
+        "description": "Famous market"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7778, 32.0778]
+      },
+      "properties": {
+        "name": "Ben Yehuda Street",
+        "description": "Popular street"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.7667, 32.0633]
+      },
+      "properties": {
+        "name": "Old Jaffa",
+        "description": "Ancient port city"
+      }
+    }
+  ]
+}
+
